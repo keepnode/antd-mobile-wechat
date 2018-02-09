@@ -4,6 +4,7 @@
   "description": "采用antd.mobile开发微信公众号",
   "private": true,
   "dependencies": {
+    "ant-mobile": "^0.0.0",
     "egg": "^2.3.0",
     "egg-scripts": "^2.5.1",
     "egg-view-react": "^1.0.0"
